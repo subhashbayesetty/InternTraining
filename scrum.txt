@@ -1,0 +1,25 @@
+
+Scrum Ceremonies:
+
+Daily scrum:
+The daily scrum, also called the standup, is a short daily meeting designed to let the team plan out its work for the day and identify any obstacles that could impact that work. Most teams hold these meetings in the morning and limit them to 10 or 15 minutes.
+During the daily scrum, each team member answers the following three questions:
+What did you do yesterday?
+What will you do today?
+Are there any impediments in your way?
+
+Sprint Planning:
+The purpose of sprint planning is to define what can be delivered in the sprint and how that work will be achieved.
+
+Sprint Review:
+After the team has completed the sprint, it’s time to meet with the stakeholders in a sprint review meeting (also called an “iteration review”). The Scrum team, Scrum Master, and product owner meet with other teams, managers, and executives to showcase what they accomplished during the sprint. 
+
+Sprint retrograde:
+During this last phase, the development team, the Scrum Master, and the product owner meet to discuss the sprint’s successes, challenges, and insights.
+Using feedback from stakeholders and the Scrum Master, the team should identify how it can improve its processes to have more effective sprints in the future.
+
+
+
+
+
+
