@@ -1,0 +1,25 @@
+GIT-> source code 
+ version control- to keep track of changing code.(records changes to files)
+
+-->Centralized version control focuses on synchronizing, tracking, and backing up files.
+-->distributed version control focuses on sharing changes. 
+In centralized version control, a failure in the central server terminates all the versions, while in distributed version control, a failure in the main server does not affect the development.
+
+GIT:
+ GIT directory
+ Working directory
+ Staging area
+
+GIT directory  <----------- (commit- file stored in data base)----Staging area(files ready to commit) <-----( stage files)------ Working directoy(Modified)
+
+Git has three main states that your files can reside in: modified, staged, and committed:
+
+Modified means that you have changed the file but have not committed it to your database yet.
+
+Staged means that you have marked a modified file in its current version to go into your next commit snapshot.
+
+Committed means that the data is safely stored in your local database.
+
+COMMANDS:
+
+Commit,Rollback,
